@@ -1,0 +1,7 @@
+*.tmp
+*.o
+*.*~
+*.d
+*.dSYM
+*.swp
+test
